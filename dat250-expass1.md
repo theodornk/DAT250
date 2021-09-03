@@ -11,7 +11,7 @@
 
 
 ## Validation
-To validate that the enviornment was working I compared to the tutorial and also changed some variables to see if changes were taking place.
+To validate that the enviornment was working I compared my result to the tutorial and also changed some variables to see if changes were taking place.
 
 
 ## Project URL
