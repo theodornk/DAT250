@@ -9,6 +9,9 @@ First part of the experiment went fine, and I did manage to inspect the database
 
 ## How I inspected the database
 To inspect the database, IJ tools was used. This was rather simple to get working. Following images shows the code used for this.
+
+
+
 ![image](https://user-images.githubusercontent.com/35202392/133004656-01cee74b-abe1-4ad7-ad9d-75678a08ed3d.png)
 ![image](https://user-images.githubusercontent.com/35202392/133004677-dd25b1cd-f04a-4780-ab59-060245203024.png)
 
