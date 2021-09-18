@@ -34,6 +34,6 @@ After uninstalling and installing again, it worked fine.
 
 
 #### Additional map-reduce operation
-<img width="300" src="https://user-images.githubusercontent.com/35202392/133891096-8d22c05a-674b-4917-bf6c-2f719e971dff.png">
+<img width="500" src="https://user-images.githubusercontent.com/35202392/133891096-8d22c05a-674b-4917-bf6c-2f719e971dff.png">
 
 The operation created will show the dates of all the transactions for each user. This way you can easily get an overview of when your orders was placed and when your last order was.
